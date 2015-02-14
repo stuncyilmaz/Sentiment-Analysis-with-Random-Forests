@@ -1,7 +1,7 @@
-﻿# Sentiment-Analysis-with-Random-Forests
+# Sentiment-Analysis-with-Random-Forests
 
-Here is an implementation of sentoment analysis using neural networks. I worked with the Rotten Tomatoes dataset from the Kaggle competition.
-(https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews). The data contains 156000 short movie reviews, labels with ratings 1-5.
+Here is an implementation of sentiment analysis using Random Forests. I worked with the Rotten Tomatoes dataset from the Kaggle competition.
+(https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews). The data contains 156000 short movie reviews, labeled with ratings 1-5.
 
 Since it is a large dataset, the algorithm takes some time. I would recommend to create with a smaller data set, using the command line:
 head -100 train.tsv>train_small.csv
